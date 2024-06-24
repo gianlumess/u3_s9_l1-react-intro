@@ -6,7 +6,7 @@ class CardComponent extends React.Component {
   render() {
     return (
       <div className="card">
-        <ImageComponent style={{ height: "230px" }} className="card-img-top" src={this.props.src} />
+        <ImageComponent style={{ height: "230px" }} className="card-img-top object-fit-cover" src={this.props.src} />
         <div className="card-body">
           <h5 className="card-title">{this.props.cardTitle}</h5>
           <p className="card-text">{this.props.cardText}</p>

@@ -50,19 +50,19 @@ function App() {
 
             <div className="col">
               <CardComponent
-                cardTitle="Grande Muraglia di Jinshanling"
+                cardTitle="Blue Mesa Trailhead, Arizona"
                 cardText="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 btnText="Go somewhere"
-                src="https://images.unsplash.com/photo-1718027808460-7069cf0ca9ae?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.unsplash.com/photo-1718886057155-3b17eb63cf1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               />
             </div>
 
             <div className="col">
               <CardComponent
-                cardTitle="Grande Muraglia di Jinshanling"
+                cardTitle="Kyoto, Japan"
                 cardText="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 btnText="Go somewhere"
-                src="https://images.unsplash.com/photo-1718027808460-7069cf0ca9ae?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.unsplash.com/photo-1718928154205-711c805ec728?q=80&w=985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               />
             </div>
           </div>
