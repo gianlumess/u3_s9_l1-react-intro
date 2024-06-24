@@ -3,7 +3,7 @@ import React from "react";
 class ImageComponent extends React.Component {
   //si utilizza render() obbligatioriamente quando si usa un componente a classe
   render() {
-    return <img className={this.props.className} src={this.props.src} alt={this.props.alt} />;
+    return <img style={this.props.style} className={this.props.className} src={this.props.src} alt={this.props.alt} />;
   }
 }
 
