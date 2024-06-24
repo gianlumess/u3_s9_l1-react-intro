@@ -32,7 +32,7 @@ function App() {
           <div className="row row-cols-lg-4 mt-5">
             <div className="col">
               <CardComponent
-                cardTitle="Grande Muraglia di Jinshanling"
+                cardTitle="Jinshanling Wall"
                 cardText="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                 btnText="Go somewhere"
                 src="https://images.unsplash.com/photo-1718027808460-7069cf0ca9ae?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
